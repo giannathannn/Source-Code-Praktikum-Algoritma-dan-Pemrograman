@@ -16,9 +16,9 @@ make the given pair of integers m-perfect?
 '''
 
 #Input
-x = int(input("Masukkan: "))
-y = int(input("Masukkan: "))
-m = int(input("Masukkan: "))
+x = int(input())
+y = int(input())
+m = int(input())
 
 #Proses
 output = 0
